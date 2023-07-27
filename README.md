@@ -1,5 +1,5 @@
 # Assessment of countermovement jump with and without arm swing using a single inertial measurement unit
-#### Authors: Ramin Fathian, Aminreza Khandan, Loren Chiu, Hossein Rouhani
+- Authors: Ramin Fathian, Aminreza Khandan, Loren Chiu, Hossein Rouhani
 - PMID: 35119345  DOI: 10.1080/14763141.2022.2032296
 - https://pubmed.ncbi.nlm.nih.gov/35119345/
 
