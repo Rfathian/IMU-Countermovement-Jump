@@ -9,7 +9,8 @@ The countermovement vertical jump height, flight time, and jump duration are use
 Keywords: Inertial measurement unit; performance assessment; strapdown integration; vertical jump height; wearable sensor.
 
 # Dataset:
-To be uploaded
-
+Sacrum IMU data for a sample jump is provided in the dataset folder. The entire dataset is available upon request from Ramin Fathian (fathian@ualberta.ca) and Dr. Hossein Rouhani (hrouhani@ualberta.ca) for researchers who meet the criteria for access to confidential data.
+Additionally, this dataset is part of a larger collection that includes other sensors. If you would like more information about it, you can reach out to Ramin Fathian (fathian@ualberta.ca) or Dr. Hossein Rouhani (hrouhani@ualberta.ca) at the provided email addresses.
+ 
 # Code:
 To be uploaded
